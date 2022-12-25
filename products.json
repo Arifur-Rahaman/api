@@ -73,8 +73,8 @@
         "description": "Men's T20 world cup Jersy Banglades",
         "price": 10,
         "countInStock": 10,
-        "rating": 0,
-        "numReviews": 0,
+        "rating": 4,
+        "numReviews": 23,
         "createdAt": "2022-10-31T16:07:19.838Z",
         "updatedAt": "2022-11-14T08:00:20.403Z",
         "__v": 0
@@ -89,8 +89,8 @@
         "description": "Premium quality Panjabi for men",
         "price": 0,
         "countInStock": 11,
-        "rating": 0,
-        "numReviews": 0,
+        "rating": 5,
+        "numReviews": 10,
         "createdAt": "2022-11-03T06:20:10.997Z",
         "updatedAt": "2022-11-14T08:02:28.725Z",
         "__v": 0
@@ -105,8 +105,8 @@
         "description": "Striped Tangail Cotton Muslin Saree",
         "price": 100,
         "countInStock": 5,
-        "rating": 0,
-        "numReviews": 0,
+        "rating": 5,
+        "numReviews": 7,
         "createdAt": "2022-11-03T06:32:03.451Z",
         "updatedAt": "2022-11-14T08:07:05.300Z",
         "__v": 0
@@ -121,8 +121,8 @@
         "description": "Original Vinay Fashion Silkina Royal Crepe Salwar Suit ",
         "price": 20,
         "countInStock": 5,
-        "rating": 0,
-        "numReviews": 0,
+        "rating": 4,
+        "numReviews": 3,
         "createdAt": "2022-11-03T06:41:44.958Z",
         "updatedAt": "2022-11-17T11:13:35.759Z",
         "__v": 0
