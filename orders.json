@@ -28,7 +28,7 @@
             "_id": "62f47f032f9d43823ca40424",
             "name": "Arifur"
         },
-        "isPaid": false,
+        "isPaid": true,
         "isDelivered": false,
         "createdAt": "2022-12-27T12:16:32.514Z",
         "updatedAt": "2022-12-27T12:16:32.514Z",
